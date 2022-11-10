@@ -1,0 +1,13 @@
+{
+    "name": "ts-modules-node",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "build": "tsc --watch"
+    },
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "typescript": "^4.8.4"
+    }
+}
